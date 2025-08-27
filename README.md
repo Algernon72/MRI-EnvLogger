@@ -1,5 +1,5 @@
 ![Screenshot](screenshot.png)
-
+![Screenshot interactive HTML dashboard](dashboard.png)
 
 # MRI-EnvLogger
 
