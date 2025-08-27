@@ -22,7 +22,7 @@ It was developed to provide radiology departments with a practical and reliable 
 ## 📌 Use Cases
 - Routine documentation of MRI environmental conditions  
 - Quality control and audit support  
-- Sharing dashboards with colleagues via **Surge, Netlify, or GitHub Pages**  
+- Sharing dashboards with colleagues via **Surge**  
 - Training tool for radiology technicians to understand room parameters  
 
 ---
