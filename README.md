@@ -41,4 +41,4 @@ The project is modular and easy to extend. Developers can adapt it to interface 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MRI-EnvLogger.git
+   git clone https://github.com/Algernon72/MRI-EnvLogger.git
